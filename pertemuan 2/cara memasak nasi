@@ -1,0 +1,25 @@
+#include <iosteam>
+using namespace std;
+
+int main() {
+
+cout << "****************************************" <<endl;
+cout << " cara memasak nasi " <<endl; 
+cout << "***************************************" <<endl;
+
+cout << "1.ambil wadah" <<endl;
+cout << "2.masukan beras ke dalam wadah" <<endl;
+cout << "3.masukan air ke dalam wadah" <<endl;
+cout << "4.cuci beras dengan air tersebut" <<endl;
+cout << "5.buang air hasil dari cucian beras tersebut" <<endl;
+cout << "6.masukan air lagi ke dalam wadah" <<endl;
+cout << "7.nyalakan rice cooker" <<endl;
+cout << "8.masukan air ke dalam dan beras yang ada di dalam wadah" <<endl;
+cout << "9.pijit tombol yang ada di rice cooker ke tombol warna merah" <<endl;
+cout << "10.tutup rice cooker" <<endl;
+cout << "11.tunggu sampai lampu di rice cooker berwarna hijau" <<endl;
+cout << "12.setelah rice cooker berwarna hijau buka rice cooker" <<endl;
+cout << "13.nasi sudah masak" <<endl;
+
+return 0;
+}
